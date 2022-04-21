@@ -1,0 +1,18 @@
+// variables 
+// una variable es una forma de almacenar el valor de algo para usar mas tarde 
+
+// strings 
+// los "trings" son bloques de textos, cualquier texto entre comillas es un string 
+
+//FUNCIONES: 
+//son objetos invocables 
+//cominenza con una palabra clave : function - esto le dice a lo que sea que el programa esta ejecutando que lo que sigue es una funcion 
+//ARGUMENTOS: ejem: si agrego "var" a los parentesis cuando declaro la funcion, puedo usar esta "var" dentro de la funcion 
+//puedo agregar multiples elementos agregando una coma entre ellos 
+//RETURN: la unica forma en que los datos "escapan" de la funcion devolviendo lo especificado.
+
+//DECLARACIONES IF
+//estructura de control utilizada para tomar decisiones. 
+
+//Valores booleanos (true, false)
+// Verifica si algo es TRUE (verdadero) o FALSE (falso)
