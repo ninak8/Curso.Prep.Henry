@@ -1,0 +1,9 @@
+//FOR 
+//For es un bucle, que dentro de ella necesita una variable - una exprecion CONDICIONAL - e incrementar la variable 
+//si es TRUE se ejecuta 
+//si es FALSE deja de funcionar 
+
+//&&, ||, !
+&& == y - and 
+|| == o -or 
+!  == NO - NOT
